@@ -1,5 +1,5 @@
 # Storegg
-
+- Made for IT DIV advanced selection in 2023
 ## Overview
 Storegg is a mini project to show data from  https://fakestoreapi.com/products.
 
