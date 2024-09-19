@@ -1,2 +1,11 @@
-"Storegg 
--fetch data from https://fakestoreapi.com/products using react native" 
+# Storegg
+
+## Overview
+Storegg is a mini project to show data from  https://fakestoreapi.com/products.
+
+## Features
+- **Mini Games**: Play mini games to earn coins.
+- **Search**: Search for data.
+- **Cart**: View a list of items you have save.
+- **Purchase**: Buy items from the store, which will reduce your coins.
+
