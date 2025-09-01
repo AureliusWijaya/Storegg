@@ -17,8 +17,8 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying the app'
-                echo 'Build ID: ${BUILD_ID}'
-                echo 'Build Url: ${BUILD_URL}'
+                echo "Build ID: ${BUILD_ID}"
+                echo "Build Url: ${BUILD_URL}"
             }
         }
     }
